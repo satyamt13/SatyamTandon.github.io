@@ -25,9 +25,7 @@ Why are you like this?
 
 **Bold** and _Italic_ and `Code` text
 
-![The Name's Mcree](https://github.com/satyamt13/images-/blob/master/test_image%20.png)
-
-![Lime Test image](https://github.com/satyamt13/Project_Amazon_reviews_NLP_recommender_system/blob/master/1_star_pred_explained.png)
+![The Name's Mcree]({{https://github.com/satyamt13}}/images-/blob/master/test_image%20.png)
 
 [Facebook](https://www.facebook.com/satyam.tandon.37)
 
