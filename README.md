@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![The Name's Mcree](https://github.com/satyamt13/images-/blob/master/test_image%20.png)
+
 [Facebook](https://www.facebook.com/satyam.tandon.37)
 
 
