@@ -25,7 +25,7 @@ Why are you like this?
 
 **Bold** and _Italic_ and `Code` text
 
-![The Name's Mcree]({{site.url}}blob/master/test_image.png)
+![The Name's Mcree](https://github.com/satyamt13/satyamt13.github.io/blob/master/test_image.png)
 
 [Facebook](https://www.facebook.com/satyam.tandon.37)
 
