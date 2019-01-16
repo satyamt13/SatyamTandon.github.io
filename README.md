@@ -13,3 +13,13 @@
 * Pre-processed, extracted and engineered features for ML models. Used ensemble methods like XGBoost Classifier and XGBoost regressor to predict destination of riders once a bike had been checked out and the number of possible transactions in a given day using various weather features.
 * Set up cloud computing to use XGB library on Amazon EC2 instance due to the large amount of training vectors available to train the ML models.
 ### [Github Repo](https://github.com/satyamt13/Capstone_1) &nbsp; &nbsp; [Jupyter Notebook](https://github.com/satyamt13/Capstone_1/blob/master/Capstone1_ML_models.ipynb)
+
+<br>
+
+# Data Science Industry Challenge: EDA, time-series data, experiments and metrics design, machine learning
+## Short Summary 
+* Removed noise and visualized trends in time series data for customer logins for ultimate ride hailing service. Zeroed in on data to visualize aggregate trends by weekday and hour identifying peak and slow times.
+* Theorized A/B testing experiment and metrics design to ascertain wether reimbursing drivers for toll costs would incentivize them to take fares across neighboring cities during times of high demands.
+* Cleaned and imputed missing data , pre-processed data and engineered new features from the data to get it ready for machine learning models to be able predict customer churn. Trained and Validated models.
+### [Jupyter Notebook](https://github.com/satyamt13/data_science_challenge1)
+
