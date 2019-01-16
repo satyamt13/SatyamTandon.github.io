@@ -6,7 +6,6 @@
 ### [README.md](https://github.com/satyamt13/Project_Amazon_reviews_NLP_recommender_system)  &nbsp; &nbsp; [Jupyter Notebook](https://github.com/satyamt13/Project_Amazon_reviews_NLP_recommender_system/blob/master/amazon_NLP_reviews.ipynb)
 
 <br>
-<br>
 
 # Analysis of Pronto, a bicycle share system in Seattle, WA
 * Merged and wrangled data to drive insights, segment and visualize Pronto's customer base. Computed p-values to validate correlation coefficients.
