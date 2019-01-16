@@ -23,3 +23,11 @@
 * Cleaned and imputed missing data , pre-processed data and engineered new features from the data to get it ready for machine learning models to be able predict customer churn. Trained and Validated models.
 ### [Jupyter Notebook](https://github.com/satyamt13/data_science_challenge1)
 
+<br>
+
+# Data Science Industry Challenge, Relaxo inc: Feature Engineering, Machine Learning
+## Short Summary 
+* Identified and constructed the target variable from two separate datasets manipulating categorical and date time object data. Trained , validated and tested a random forest classifier on the data to be able to predict customer churn.
+* Intuitively engineered three additional features from given data which proved paramount in achieving an extremely high overall accuracy(98.07%) , high precision(98.3%) and high recall(96.8%) on the unseen/hold out set.
+### [Jupyter Notebook](https://github.com/satyamt13/data_science_challenge2/blob/master/relax_data_science_challenge_notebook.ipynb)
+
