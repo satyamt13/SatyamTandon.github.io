@@ -31,3 +31,12 @@
 * Intuitively engineered three additional features from given data which proved paramount in achieving an extremely high overall accuracy(98.07%) , high precision(98.3%) and high recall(96.8%) on the unseen/hold out set.
 ### [Jupyter Notebook](https://github.com/satyamt13/data_science_challenge2/blob/master/relax_data_science_challenge_notebook.ipynb)
 
+<br>
+
+# Predicting Employee Turnover with ensemble methods
+## Short Summary
+* Visualized breakdown , pre-processed and cleaned data for robust ensemble methods such as voting , bagging and boosting. Fine tuned and validated each model based on metrics I identified as being more important than just model accuracy w.r.t the problem of employee turnover.
+* Wrote scripts to visualize the performance and classi􀂁cation report of each validated model on the unseen/holdout data.
+* Wrote up a full report explaining my findings, processes and provided recommendations tailored to the need of organizations of various sizes.
+### [Github Repo](https://github.com/satyamt13/Capstone2) &nbsp; &nbsp; [Jupyter Notebook](https://github.com/satyamt13/Capstone2/blob/master/Capstone2.ipynb)
+
