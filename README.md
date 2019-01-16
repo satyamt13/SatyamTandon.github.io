@@ -8,6 +8,7 @@
 <br>
 
 # Analysis of Pronto, a bicycle share system in Seattle, WA
+## Short Summary
 * Merged and wrangled data to drive insights, segment and visualize Pronto's customer base. Computed p-values to validate correlation coefficients.
 * Pre-processed, extracted and engineered features for ML models. Used ensemble methods like XGBoost Classifier and XGBoost regressor to predict destination of riders once a bike had been checked out and the number of possible transactions in a given day using various weather features.
 * Set up cloud computing to use XGB library on Amazon EC2 instance due to the large amount of training vectors available to train the ML models.
