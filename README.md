@@ -1,7 +1,7 @@
 # NLP and Recommender Systems with Amazon Movies & TV Reviews
 ## Short Summary 
-* Mined, visualized and pre-processed 650,000 observations of movie reviews using tokenizing, stemming and lemmatizing to build a multi - class classification Naive Bayes Model with 4 different combinations of word embeddings to predict rating given just the review text.
-* Used local surrogates model using the LIME( local interpretable model agnostic explanations ) library to explain individual predictions.
+* Efficiently cleaned and processed over 1 million observations of Amazon movies and T.V reviews extracted from JSON files on a single 4-core local machine using big data principles like parallel processing and data streaming.
+* Adapted a special C-LSTM Neural Network based on the Zhou et al. 2015 research paper that beat a simple majority baseline by 10% and a simple Naive Bayes baseline by 6% on the task of predicting rating score given review text
 * Using LDA topic modeling to build a theme - based recommender system and SVD to build a model based collaborative filtering recommender system.
 ### [README.md](https://github.com/satyamt13/Project_Amazon_reviews_NLP_recommender_system)  &nbsp; &nbsp; [Jupyter Notebook](https://github.com/satyamt13/Project_Amazon_reviews_NLP_recommender_system/blob/master/amazon_NLP_reviews.ipynb)
 
