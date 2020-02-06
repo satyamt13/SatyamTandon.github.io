@@ -1,27 +1,27 @@
 # NLP and Recommender Systems with Amazon Movies & TV Reviews
 ## Short Summary 
-* Efficiently cleaned and processed over 1 million observations of Amazon movies and T.V reviews extracted from JSON files on a single 4-core local machine using big data principles like parallel processing and data streaming.
-* Adapted a special C-LSTM Neural Network based on the Zhou et al. 2015 research paper that beat a simple majority baseline by 10% and a simple Naive Bayes baseline by 6% on the task of predicting rating score given review text
-* Using LDA topic modeling to build a theme - based recommender system and SVD to build a model based collaborative filtering recommender system.
+* Efficiently mined over 1 million observations of Amazon reviews on a 4-core local machine using big data principles like parallel processing and data streaming with Gensim and Numpy.
+* Adapted a special C-LSTM Neural Network based on the Zhou et al. 2015 research paper using Keras that beat a simple majority baseline by 10% and a simple Naive Bayes baseline by 6% for multi-class sentiment classification with T.V. & Movie ratings.
+* Used SVD with Scikit-Learn to build a collaborative filtering recommender system for Movies and T.V. shows from the data.
 ### [README.md](https://github.com/satyamt13/Project_Amazon_reviews_NLP_recommender_system)  &nbsp; &nbsp; [Jupyter Notebook](https://github.com/satyamt13/Project_Amazon_reviews_NLP_recommender_system/blob/master/CNN_LSTM_approach.ipynb)
-
-<br>
-
-# Analysis of Pronto, a bicycle share system in Seattle, WA
-## Short Summary
-* Merged and wrangled data to drive insights, segment and visualize Pronto's customer base. Computed p-values to validate correlation coefficients.
-* Pre-processed, extracted and engineered features for ML models. Used ensemble methods like XGBoost Classifier and XGBoost regressor to predict destination of riders once a bike had been checked out and the number of possible transactions in a given day using various weather features.
-* Set up cloud computing to use XGB library on Amazon EC2 instance due to the large amount of training vectors available to train the ML models.
-### [Github Repo](https://github.com/satyamt13/Capstone_1) &nbsp; &nbsp; [Jupyter Notebook](https://github.com/satyamt13/Capstone_1/blob/master/Capstone1_ML_models.ipynb)
 
 <br>
 
 # Data Science Industry Challenge: EDA, time-series data, experiments and metrics design, machine learning
 ## Short Summary 
-* Removed noise and visualized trends in time series data for customer logins for ultimate ride hailing service. Zeroed in on data to visualize aggregate trends by weekday and hour identifying peak and slow times.
-* Theorized A/B testing experiment and metrics design to ascertain wether reimbursing drivers for toll costs would incentivize them to take fares across neighboring cities during times of high demands.
-* Cleaned and imputed missing data , pre-processed data and engineered new features from the data to get it ready for machine learning models to be able predict customer churn. Trained and Validated models.
+* Removed noise and visualized trends in customer demand using time-series smoothening and aggregation on login data with Seaborn and Pandas to identify peak and slow periods for a ride-hailing service.
+* Theorized an A/B Testing experiment and metric design to ascertain the impact of toll reimbursement for drivers on cross-state trip willingness.
+* Predicted customer churn using feature engineering with tuned ensemble methods such as Random Forest and SG Boosting which achieved a high stratified accuracy of 85% on the class of interest (churn) while maintaining a reasonable overall accuracy of 78% on test data.
+* Wrote scripts using Scikit-Learn to visualize classification report and confusion matrix for each model used. 
 ### [Jupyter Notebook](https://github.com/satyamt13/data_science_challenge1)
+
+<br>
+
+# Analysis of Pronto, a bicycle share system in Seattle, WA
+## Short Summary
+* Identified two machine-learning uses cases of predicting number of trips per day based on weather attributes and destination dock of a bicycle once it had been checked out by a member without being given any concrete problem structure.
+* Heavily wrangled data and started with simpler models such as ridge and lasso regression and K-nearest neighbors with Pandas and Scikit-Learn before moving on to more complex models such as XGBoost regressor and classifier respectively on AWS EC2 instances to achieve an increase in performance
+### [Github Repo](https://github.com/satyamt13/Capstone_1) &nbsp; &nbsp; [Jupyter Notebook](https://github.com/satyamt13/Capstone_1/blob/master/Capstone1_ML_models.ipynb)
 
 <br>
 
